@@ -1,0 +1,44 @@
+// Project Structure
+//tron-explorer
+//├── /frontend
+//│   ├── /src
+//│   │   ├── /components
+//│   │   │   ├── SearchBar.js
+//│   │   │   ├── HomePage.js
+//│   │   │   ├── WalletPage.js
+//│   │   │   ├── BlockchainPage.js
+//│   │   │   ├── TokenPage.js
+//│   │   │   ├── GovernancePage.js
+//│   │   │   ├── ThemeSwitcher.js
+//│   │   │   ├── ContractInteraction.js
+//│   │   ├── App.js
+//│   │   ├── index.js
+//│   │   ├── styles.css
+//│   ├── package.json
+//├── /backend
+//│   ├── /app
+//│   │   ├── main.py
+//│   │   ├── blockchain.py
+//│   │   ├── websocket.py
+//│   │   ├── auth.py
+//│   │   ├── database.py
+//│   ├── /contracts
+//│   │   ├── Staking.sol
+//│   ├── requirements.txt
+//│   ├── .env
+//├── /admin
+//│   ├── /src
+//│   │   ├── AdminDashboard.js
+//│   │   ├── TokenBlacklist.js
+//│   │   ├── FeatureToggles.js
+//│   │   ├── Logs.js
+//│   │   ├── ContractVerification.js
+//│   ├── package.json
+//├── /docs
+//│   ├── api.md
+//│   ├── deployment.md
+//│   ├── wireframe.md
+//├── /tests
+//│   ├── test_staking.py
+
+// Frontend: Chart Implementation with TronGrid API
